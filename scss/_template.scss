@@ -513,12 +513,12 @@ img.absolute_image {
 
 .page_title, .call-to-action {
   background-image: url("../images/about_us.jpg");
-  background-size: cover;
+  background-size: contain;
 }
 
 .services-bg {
   background-image: url("../images/services-bread.png");
-  background-size: cover;
+  background-size: contain;
 }
 
 .spare-parts {
@@ -527,7 +527,7 @@ img.absolute_image {
 }
 .brands-bg {
    background-image: url("../images/brands-bread.png");
-   background-size: cover;
+   background-size: contain;
  }
 
 .oil-gas {
@@ -543,7 +543,7 @@ img.absolute_image {
 
 .about-us-br {
   background-image: url("../images/about-us-bread.jpg");
-  background-size: cover;
+  background-size: contain;
 }
 
 .portfolio-section {
