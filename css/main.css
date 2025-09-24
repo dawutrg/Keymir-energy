@@ -25585,6 +25585,11 @@ img.absolute_image {
   background-size: contain;
 }
 
+.cpm-bg {
+  background-image: url("../images/cpm-bread.jpg");
+  background-size: cover;
+}
+
 .spare-parts {
   background-image: url("../images/spare-bread.jpg");
   background-size: cover;
