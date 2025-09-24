@@ -26290,6 +26290,7 @@ img.absolute_image {
   font-size: 18px;
   font-weight: 400;
   color: #666666;
+  text-align: justify;
 }
 
 .card-brand {
@@ -26668,6 +26669,11 @@ img.absolute_image {
 
 .checkbox-slider--b-flat input + span:before {
   box-shadow: none;
+}
+
+.industry {
+  display: block;
+  text-align: justify;
 }
 
 /*# sourceMappingURL=main.css.map */
