@@ -26208,7 +26208,7 @@ img.absolute_image {
 
 @media (min-width: 992px) {
   .special-column2 {
-    max-width: 380px;
+    /* max-width: 380px; */
     margin-right: auto;
     padding-left: 62px;
   }

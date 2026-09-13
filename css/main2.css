@@ -31208,7 +31208,7 @@ img.absolute_image {
 @media (min-width: 992px) {
 	.special-column2 {
 		margin-right: auto;
-		max-width: 380px;
+		/* max-width: 380px; */
 		padding-left: 62px;
 	}
 }
